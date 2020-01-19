@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
+    <menu>
+		<add id="WebTechnologyCodes_CustomerAttribute::customerattribute" title="CustomerAttribute" module="WebTechnologyCodes_CustomerAttribute" sortOrder="20" parent="WebTechnologyCodes_Extensions::wtc" action="customerattribute/customerattribute" resource="WebTechnologyCodes_CustomerAttribute::customerattribute"/>
+    </menu>
+</config>
